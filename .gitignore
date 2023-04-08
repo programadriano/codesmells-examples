@@ -1,0 +1,88 @@
+# Arquivos e diretórios do Visual Studio
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.cache
+*.csproj.user
+*.vspscc
+*.vssscc
+.vs/
+
+# Diretórios de compilação e artefatos
+bin/
+obj/
+_ReSharper*/
+
+# Arquivos gerados pelo MSTest
+*.trx
+*.coverage
+*.vsp
+
+# Arquivos gerados pelo NCrunch
+*.ncrunchproject
+*.ncrunchsolution
+
+# Arquivos gerados pelo R#
+*_i.*
+*_resharper.*
+*ReSharper*
+
+# Diretórios de compilação para Rider
+.idea/
+
+# Arquivos gerados pelo TestDriven.Net
+*.tdnet
+
+# Arquivos gerados pelo SpecFlow
+*.feature.cs
+
+# Arquivos gerados pelo StyleCop
+StyleCopReport.xml
+
+# Arquivos gerados pelo PostSharp
+*.g.cs
+*.g.i.cs
+
+# Arquivos de banco de dados
+*.mdf
+*.ldf
+*.sqlproj.user
+
+# Exemplos de arquivos gerados pelo Chutzpah
+*.Chutzpah.coverage.json
+_Chutzpah*
+
+# Ferramentas NuGet
+.nuget/
+
+# Arquivos de configuração NuGet
+packages/
+
+# Backup de arquivos temporários, logs e outros
+*_bak.*
+*.bak.*
+*.bak
+*.log
+*.tmp
+*.swp
+*.backups
+temp/
+*.tmp_proj
+
+# Diretórios de node_modules
+**/node_modules/
+
+# Arquivos e diretórios gerados pelo NPM/Yarn
+yarn-error.log
+yarn.lock
+.package-lock.json
+.projectile
+
+# Diretórios do bower
+**/bower_components/
+
+# Diretórios de typings
+**/typings/
+
+# Arquivos e
